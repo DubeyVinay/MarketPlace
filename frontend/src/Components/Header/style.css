@@ -1,0 +1,24 @@
+.header {
+  display: inline-flex;
+  width: 100%;
+  margin-top: 30px;
+}
+.header-head {
+  width: 50%;
+}
+.header-head button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  background-color: #8c40cf;
+  color: #ffffff;
+  font-weight: 500;
+}
+.header-head a {
+  color: #ffffff;
+  list-style: none;
+  text-decoration: none;
+}
+.header-head li {
+  display: inline-block;
+}
